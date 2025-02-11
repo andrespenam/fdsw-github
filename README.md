@@ -1,5 +1,5 @@
 # Andrés Peña Montilla
-## _Desafio 5 G92, Desafio LAtam_
+## _Desafio 5 G92, Desafio Latam_
 
 El Siguiente desafio se hizo de la siguiente manera:
 #### 1.- Haciendo fork al link presentado.
